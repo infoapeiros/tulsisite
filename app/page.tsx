@@ -44,6 +44,7 @@ export default function Home() {
           </h2>
           <p className="text-xl text-muted-foreground mb-8 text-balance">
             Casuals to Customs — We've Got Your Soles Covered 👟
+            Tulsi Footwear is a retail business specializing in footwear products. We offer a wide range of quality shoes for various occasions. We are committed to providing reliable products and customer service.
           </p>
           <p className="text-lg text-foreground mb-8">
             Discover our curated collection of premium footwear for every occasion and every style.
